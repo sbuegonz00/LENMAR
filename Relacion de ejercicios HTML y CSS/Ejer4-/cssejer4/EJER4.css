@@ -1,0 +1,36 @@
+body {
+    color: black; /* Color de texto negro para buena legibilidad */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: red; /* Color del h1 en rojo */
+    text-align: center;
+}
+
+h2 {
+    margin: 20px 0;
+    text-align: center;
+}
+
+h2:nth-of-type(1) {
+    color: blue; /* Color del h2 para Trabajador 1 */
+}
+
+h2:nth-of-type(2) {
+    color: green; /* Color del h2 para Trabajador 2 */
+}
+
+ul {
+    list-style-type: disc;
+    padding: 5;
+}
+
+li {
+    text-decoration: underline; /* Subrayar los elementos de la lista */
+    margin: 5px 0; /* Espaciado entre elementos de la lista */
+}
+div{
+    background-color: gray; /* Fondo gris */
+    border: 5px solid black;
+}
