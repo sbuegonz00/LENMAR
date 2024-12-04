@@ -1,0 +1,41 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: #333;
+    font-size: 20px;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+h2{
+    color: #666;
+    font-size: 16px;
+}
+caption{
+    color: #000;
+    font-size: 14px ;
+}
+p{
+    color: #000;
+    font-size: 16px;
+}
+thead{
+    background-color: #666;
+}
+tbody{
+    background-color: #fff;
+}
+tfoot{
+    background-color: #ccc;
+}
+th{
+    font-size: 16px;
+    color: #000;
+}
+a{
+    color: blue;
+    font-size: 16px;
+}
