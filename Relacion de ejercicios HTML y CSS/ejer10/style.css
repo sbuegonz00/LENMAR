@@ -1,0 +1,16 @@
+@font-face {
+    font-family: RibeyeMarrow;
+    src: url(font/RibeyeMarrow-Regular.ttf);
+  }
+
+body {
+    background-color: #ccac4d;
+}
+
+h1 {
+    font-family: RibeyeMarrow;
+    font-size: 3rem;
+    letter-spacing: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
